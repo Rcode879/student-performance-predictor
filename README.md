@@ -14,19 +14,14 @@ This project implements a linear regression model to predict student performance
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Student-Performance-Prediction.git
-   cd Student-Performance-Prediction
+   git clone https://github.com/Rcode879/student-performance-predictor.git
+   cd student-performance-predictor
    ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Place your dataset (`Student_Performance.csv`) in the project directory.
 
 ## Usage
 Run the script to start the interactive menu:
 ```sh
-python script.py
+python main.py
 ```
 
 ### Menu Options
